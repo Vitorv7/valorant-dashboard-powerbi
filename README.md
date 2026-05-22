@@ -18,6 +18,7 @@ Projeto desenvolvido no Power BI com foco em análise de dados dos agentes do Va
 * DAX
 
 ## 📷 Dashboard
+<img width="1015" height="568" alt="2026-05-22" src="https://github.com/user-attachments/assets/c93afb70-4838-4b58-9c32-f8682d9698b8" />
 
 
 
