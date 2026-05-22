@@ -21,7 +21,7 @@ Projeto desenvolvido no Power BI com foco em análise de dados dos agentes do Va
 
 
 
-![Dashboard](dashboard.png)
+
 
 ## 📌 Objetivo
 
