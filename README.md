@@ -4,7 +4,7 @@ Projeto desenvolvido no Power BI com foco em análise de dados, KPIs e visualiza
 
 ## 📊 Dashboard
 
-![Dashboard](https://1drv.ms/i/c/1267208f6c4ea23b/IQA8XNXWiRxKSbcEnLiaFqA6AQ0cmTZmzZBzkiBP9qkyBWY?e=NQ6Z7d)
+![Dashboard](![Dashboard](https://github.com/user-attachments/assets/9fcc7ba2-e762-42d3-860a-3f5abb991efd))
 
 ## 🛠 Ferramentas utilizadas
 
