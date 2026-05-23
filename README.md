@@ -25,6 +25,7 @@ Projeto desenvolvido no Power BI com foco em análise de dados dos agentes do Va
 
 
 
+
 ## 📌 Objetivo
 
 Praticar visualização de dados, modelagem e criação de dashboards interativos utilizando Power BI.
