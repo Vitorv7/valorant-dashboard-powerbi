@@ -4,8 +4,8 @@ Projeto desenvolvido no Power BI com foco em análise de dados, KPIs e visualiza
 
 ## 📊 Dashboard
 
-![Dashboard](![Dashboard](<img width="1147" height="644" alt="2026-05-22 (1)" src="https://github.com/user-attachments/assets/4944cfed-69ba-4e2b-b316-f6904f9d166f" />
-))
+<img width="1147" height="644" alt="2026-05-22 (1)" src="https://github.com/user-attachments/assets/4e7a7585-7863-4c4f-b7f2-6ac0a4c0d471" />
+
 
 
 
