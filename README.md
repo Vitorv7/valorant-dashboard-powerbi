@@ -15,6 +15,7 @@ Projeto desenvolvido no Power BI com foco em análise de dados dos agentes do Va
 
 * Power BI
 * Excel
+* DAX
 
 
 ## 📷 Dashboard
